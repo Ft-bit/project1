@@ -1,0 +1,11 @@
+.wrapper {
+  transition: all 0.5s;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  background: #000;
+  border-radius: 30px;
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
